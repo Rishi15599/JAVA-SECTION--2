@@ -1,3 +1,5 @@
+//Single level inheritance ------
+
 public class Sample1_1_1 {
     int i=10;
     public void m1(){
