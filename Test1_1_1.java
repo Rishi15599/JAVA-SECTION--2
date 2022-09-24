@@ -1,4 +1,6 @@
-public class Test1_1_1 {
+//Single level inheritance -------
+
+public class Test1_1_1{
     int i=40;
     String s="java";
     public void display(){

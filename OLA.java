@@ -1,3 +1,6 @@
+//Single level inheritance ----
+
+
 public class OLA {
     public void booking(){
         System.out.println("Travel Alone");

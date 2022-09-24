@@ -1,3 +1,5 @@
+//Hierachical inheritance
+
 public class Product {
     String ProductName="HP Laptop";
     public void product(){

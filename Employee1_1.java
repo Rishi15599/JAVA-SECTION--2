@@ -1,3 +1,5 @@
+// Hierachical Inheritance --------
+
 public class Employee1_1 {
     String name;
     int id;

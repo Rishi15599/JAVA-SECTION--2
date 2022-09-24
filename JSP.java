@@ -1,3 +1,5 @@
+//Multi level inheritance -----
+
 public class JSP {
     String facultyName="Rishi";
     String subject="java";

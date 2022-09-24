@@ -1,3 +1,5 @@
+//Hierarchical Inheritance ------------
+
 public class Demo1_1_1_1 {
     int i=10;
     String s="java";

@@ -1,3 +1,6 @@
+//--parametrise this() -----
+//constructor chaining -----
+
 public class Demo1_1 {
     Demo1_1(){
         this(100);

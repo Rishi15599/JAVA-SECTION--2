@@ -1,3 +1,5 @@
+//Single level inheritance
+
 public class Flipkart {
     String productName = "LG TV 55 inch";
     double productCost = 65.56;

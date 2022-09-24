@@ -1,3 +1,5 @@
+// non-par Super() -----------------
+//constructor chaining --------
 public class Test1_1 {
     Test1_1(){
         System.out.println("Test1_1 constructor");
