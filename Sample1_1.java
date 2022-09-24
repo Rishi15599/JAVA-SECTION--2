@@ -1,3 +1,6 @@
+// par Super() -----------------
+//constructor chaining --------
+
 public class Sample1_1 {
     Sample1_1(char ch){
         System.out.println("Sample1_1 constroctore"+ch);
