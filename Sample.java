@@ -1,4 +1,6 @@
 //non-par  without Super()
+//Constructor chaning------
+
 public class Sample {
     Sample(){
         System.out.println("Sample is parent class constructor");
@@ -6,7 +8,7 @@ public class Sample {
 }
 class Sample2 extends Sample{
     Sample2(){
-        super();
+        //super();
         System.out.println("Sample2 is in sub-class constructor");
     }
 }
